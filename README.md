@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Mosqnet.io's Push Notifications With MasjidAlerts.com Guide
 
-You can use the [editor on GitHub](https://github.com/DesignApplicationPtyLtd/Push-Notifications/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Only Masjids or Mosques that are registered with login details on Mosqnet.io Console can send push notifications, To send an push notification you simply need to go on: [www.mosqnet.io/mosque/console/pushnotificationform/](http://apps.flatfur.com/julfaitrus/appsdesignlab/mosqnetmosqueconsole/index.php/pushnotificationform/) and than "Create a New Forum".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After all that, you will be able view the form to submit Push Notifications.
 
-### Markdown
+If you need help or support using this console, Please [click here](http://appsdesignlab.com/mosqueconsole/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Forum Title is the most important text, With a Maximum Length of 80 Characters, it is displayed on the Push Notification in itself. Try to keep it short and clear, It determines the users decision to click on it or not.
 
-```markdown
-Syntax highlighted code block
+The Large Box Field (under the Forum Title) (which supports Unlimited Characters and HTML) is what the user views after clicking on your Forum Title.
 
-# Header 1
-## Header 2
-### Header 3
+For the Single Drop-down Choices (below the Large Box Field) must have an default field decreed by MasjidAlerts.com in order to work:
 
-- Bulleted
-- List
+For the Forum Type, Select: Forum
 
-1. Numbered
-2. List
+For the Status, Select: Open
 
-**Bold** and _Italic_ and `Code` text
+For the Visibility, Select: Public
 
-[Link](url) and ![Image](src)
-```
+For the Parent Forum, Select: (No Parent)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DesignApplicationPtyLtd/Push-Notifications/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Once finished, Click on the Submit button below to publish your push notification.
